@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "vue": "^3.2.33",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "vue-loader": "^17.0.0"
+  }
+}
